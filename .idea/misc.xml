@@ -3,10 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/drawable-v24/loginbkg.xml" value="0.136" />
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/drawable/btn_custom.xml" value="0.136" />
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/drawable/et_custom.xml" value="0.136" />
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/drawable/ic_arrow_left.xml" value="0.136" />
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/drawable/ic_arrow_right.xml" value="0.136" />
         <entry key="..\:/BubbleLaundryApp/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.136" />
         <entry key="..\:/BubbleLaundryApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.136" />
         <entry key="..\:/BubbleLaundryApp/app/src/main/res/drawable/login.xml" value="0.136" />
-        <entry key="..\:/BubbleLaundryApp/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/drawable/loginbkg.xml" value="0.136" />
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/drawable/loginbkg_background.xml" value="0.136" />
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/layout/activity_main.xml" value="0.10389055151774262" />
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/layout/fragment_login.xml" value="0.1125" />
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/layout/fragment_register.xml" value="0.1265625" />
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.136" />
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/mipmap-anydpi-v26/loginbkg.xml" value="0.136" />
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/mipmap-anydpi-v26/loginbkg_foreground.xml" value="0.136" />
+        <entry key="..\:/BubbleLaundryApp/app/src/main/res/mipmap-anydpi-v26/loginbkg_round.xml" value="0.136" />
       </map>
     </option>
   </component>
