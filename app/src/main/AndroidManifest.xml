@@ -3,6 +3,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.ADP.bubblelaundryapp">
 
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -13,6 +21,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BubbleLaundryApp"
         tools:targetApi="31">
+        <activity
+            android:name=".DashboardActivity"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
